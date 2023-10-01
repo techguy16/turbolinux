@@ -1,0 +1,38 @@
+{
+    "OperatingSystem": "Turbolinux",
+    "AppStore": {
+      "Categories": {
+        "Games": [
+          {
+            "AppName": "Minecraft",
+            "Developer": "Mojang Studios",
+            "Description": "Minecraft Classic for Turbolinux.",
+            "Version": "0.0.23a_01",
+            "SupportsSplitScreen": true,
+            "AppURL": "https://techguy16.github.io/turbolinux/minecraft/"
+          }
+        ],
+        "Sound & Video": [
+          {
+            "AppName": "OpenStream Music",
+            "Developer": "OpenStream Organization",
+            "Description": "The first streaming service for Turbolinux! A free, no accounts, no ads open-source streaming service.",
+            "Version": "1.1.0-beta",
+            "SupportsSplitScreen": true,
+            "AppURL": "https://openstreamorg.github.io/openstreammusic/app/index.html"
+          }
+        ],
+        "Education": [
+          {
+            "AppName": "Scratch",
+            "Developer": "MIT",
+            "Description": "A visual coding platform for 8-16 year olds.",
+            "Version": "3.0",
+            "SupportsSplitScreen": false,
+            "AppURL": "https://techguy16.github.io/turbolinux/scratch"
+          }
+        ]
+      }
+    }
+  }
+  
